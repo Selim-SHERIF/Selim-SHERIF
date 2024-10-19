@@ -1,4 +1,4 @@
-# 👨‍💻 Selim Sherif
+# 👨‍💻 Selim SHERIF
 
 🎓 **EPFL Student** | MSc in **Computational Science and Engineering**  
 🎓 **Bachelor in Mechanical Engineering** | EPFL
