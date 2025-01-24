@@ -1,11 +1,16 @@
 # 👨‍💻 Selim SHERIF
 
-🎓 **EPFL Student** | MSc in **Computational Science and Engineering**  
-🎓 **Bachelor in Mechanical Engineering** | EPFL
+## 🎓 Education
+- **MSc in Computational Science and Engineering**, EPFL
+- **BSc in Mechanical Engineering**, EPFL
 
-💻 **Passionate about:**  
-- 🏎️ Formula 1 and Motorsport Engineering  
-- 🏎️ Vehicle Dynamics  
-- 💨 Computational Fluid Dynamics (CFD)  
-- 🔧 Structural Engineering  
-- 🤖 Machine Learning and Data Science  
+## 💻 Passionate About
+- 🏎️ Formula 1 & Motorsport Engineering
+- 📊 Numerical Analysis and Methods
+- 💨 Computational Fluid Dynamics (CFD)
+- 🔧 Structural Engineering
+- 🤖 Machine Learning & Data Science
+
+## 🌐 Portfolio
+Explore my projects and achievements on my [Portfolio]([https://selimsherif.com](https://github.com/Selim-SHERIF/Portfolio)).
+
