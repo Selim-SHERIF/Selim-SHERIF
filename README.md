@@ -12,5 +12,5 @@
 - 🤖 Machine Learning & Data Science
 
 ## 🌐 Portfolio
-Explore my projects and achievements on my [Portfolio]([https://selimsherif.com](https://github.com/Selim-SHERIF/Portfolio).
+Explore my projects and achievements on my [Portfolio](https://github.com/Selim-SHERIF/Portfolio).
 
